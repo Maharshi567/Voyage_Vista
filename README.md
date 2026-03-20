@@ -1,20 +1,45 @@
-VoyageVista is a project based on Sports like Camping🏕,Surfing🏄‍♂️,Scuba Diving🤿etc. to help user to experience the THRILL 🔥and JOY 😃of Sports along with Nature🏔.
+# 🧭 ExploreEdge — Adventure Sports & Travel Platform
 
+> *Experience the Thrill of Sports. Embrace the Beauty of Nature.* 🏔️
 
-💻 Features:
+A full-stack web application for adventure sports enthusiasts to explore, book, and review thrilling outdoor experiences — from Camping 🏕️ to Surfing 🏄 to Scuba Diving 🤿.
 
-▶️ Clean  user interface and easy navigation.
+---
 
-▶️This Project allows users to "Write Review 📖 🖋 " and "Book their Trip 🏕 ".
+## ✨ Features
 
-▶️This Project provides special rights to Admin 🧑‍💻 :
-    📌 Access All Reviews from DataBase.
-    📌 Access All Bookings from DataBase.
+### 👤 User
+- 🖥️ **Clean UI** — Intuitive interface with easy navigation
+- 📖 **Write Reviews** — Share experiences and help the community
+- 🏕️ **Book a Trip** — Quick and simple adventure activity booking
+- 🧾 **Sport Guides** — Detailed info, tips, and safety instructions per sport
+- 📥 **Download Contact Details** — Save important contacts for offline use
+- 📱 **Responsive Design** — Works seamlessly on all devices
 
-▶️Admin Login Page is Authenticated 🔴 .(Only Admin can Login).
+### 🔐 Admin
+- 🛡️ **Authenticated Login** — Secured access exclusive to authorized admins
+- 📋 **Manage Reviews** — View and moderate all user reviews
+- 📦 **Manage Bookings** — Access and track all trip bookings in real time
 
-▶️Helps User to know Details, Safety Tips, etc 🧾 Information about the Sport.
+---
 
- ▶️It is Responsive.
+## 🛠️ Tech Stack
 
- ▶️Contact details download.
+| Layer | Technology |
+|-------|------------|
+| 🎨 Frontend | HTML5, CSS3, JavaScript |
+| ⚙️ Backend | Node.js, Express.js |
+| 🗄️ Database | MongoDB |
+| ☁️ Deployment | Render |
+
+---
+---
+
+## 🔮 Future Scope
+
+- User authentication & personal profiles
+- Payment gateway for confirmed bookings
+- Expanded catalog of sports & global destinations
+- Trip rating system & email booking confirmation
+
+---
